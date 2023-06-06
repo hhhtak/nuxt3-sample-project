@@ -5,6 +5,6 @@
 </template>
 
 <script setup>
-const admin = true;
+const admin = false;
 const layout = admin ? "custom" : "default";
 </script>

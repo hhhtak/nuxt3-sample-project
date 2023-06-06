@@ -4,4 +4,5 @@
     <slot />
     <nav>footer</nav>
   </div>
+  ;
 </template>
