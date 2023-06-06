@@ -1,3 +1,3 @@
 <template>
-  <NuxtWelcome />
+  <div>index</div>
 </template>
