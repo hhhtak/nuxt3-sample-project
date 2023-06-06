@@ -4,6 +4,7 @@
 
 <script setup>
 definePageMeta({
-  layout: true,
+  // TODO: trueにしても何故か表示されない
+  layout: false,
 });
 </script>
