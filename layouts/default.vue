@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav>navigation</nav>
+    <Navbar />
     <slot />
     <nav>footer</nav>
   </div>
