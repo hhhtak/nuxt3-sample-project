@@ -13,4 +13,7 @@ export default defineNuxtConfig({
       ],
     },
   },
+  routeRules: {
+    "/posts/**": { ssr: false },
+  },
 });
